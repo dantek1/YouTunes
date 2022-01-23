@@ -21,7 +21,7 @@
 	
 	<div class="row">
 		<div class="col-12">
-			<h3 class="text-center">Wolfgang Amadeus Mozart</h3>
+			<h3 class="text-center">Carl Phillip Emanuel Bach</h3>
 		</div>
 	</div>
 	
@@ -33,11 +33,10 @@
 		
 		<div class="col-8">
 			<p>
-        		An Austrian composer of the Classical period, Wolfgang Amadeus Mozart is widely recognized as one of the greatest composers of Western music.
-       			He is the only composer to write and excel in all of the musical genres of his time.
-        		Rumored to have had the ability to play music at age three and to write music at age five, Mozart began his career as a child prodigy.
-        		Notable compositions include The Marriage of Figaro, Elvira Madigan, and Clarinet Quintet in A Major, K 581. 
-       			<em class="apa-reference"><a href="https://www.britannica.com/list/10-classical-music-composers-to-know" target="_blank">Source</a></em>
+        		CPE Bach was the second surviving son of Johann Sebastian Bach, the patriarch of Western music’s unstoppable dynasty.
+			Frustrated by the old Baroque restraints, CPE carved out his own sound, noted for its quick changes in mood,
+			 harmony and dynamic shade. Hear it prominently in the second movement of his Keyboard Concerto in G major,
+			 whose minor-key orchestral opening is suddenly penetrated by a solo harpsichord or piano line, which unexpectedly flips to major tonality slap bang in the middle of a phrase.
       		</p>
 		</div>
 	</div>
