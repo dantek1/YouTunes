@@ -31,6 +31,7 @@ public class Album
 		this.artistId = artistId;
 	}
 	
+	
 	public Album() {}
 	
 	public void setAlbumId(long albumId) 
